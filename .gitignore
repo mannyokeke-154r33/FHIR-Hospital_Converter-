@@ -1,0 +1,16 @@
+# Local data and generated files
+data/
+outputs/
+*.csv
+*.zip
+
+# Python and notebook artifacts
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Local environment files
+.env
+.venv/
+venv/
+
